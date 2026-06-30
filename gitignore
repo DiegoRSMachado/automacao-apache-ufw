@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+*.tmp
+apache_audit_*.txt
+.vscode/
+.idea/
